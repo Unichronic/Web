@@ -1573,3 +1573,10 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+#eric {
+  margin-top: -20%;
+  max-width: 50%;
+  height: auto;
+  border-radius: 20%;
+}

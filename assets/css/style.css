@@ -688,7 +688,7 @@ section {
   position: relative;
   overflow: hidden;
   border-radius: 10px;
-  color: #bb5d2e;
+  color: #bb6d2e;
   background: #5e0812;
   box-shadow: 0 3px 30px 0 rgba(68, 88, 144, 0.12);
   transition: all 0.4s ease-in-out;
@@ -701,11 +701,6 @@ section {
   box-shadow: 0 2px 35px 0 rgba(68, 88, 144, 0.3);
 }
 
-.services .icon {
-  position: absolute;
-  left: -20px;
-  top: calc(50% - 30px);
-}
 
 .services .icon i {
   font-size: 64px;
@@ -714,7 +709,7 @@ section {
 }
 
 .services .title {
-  margin-left: 40px;
+  margin-left: 20px;
   font-weight: 800;
   margin-bottom: 15px;
   font-size: 24px;
@@ -731,7 +726,7 @@ section {
 
 .services .description {
   font-size: 22px;
-  margin-left: 40px;
+  margin-left: 20px;
   line-height: 24px;
   margin-bottom: 0;
 }
